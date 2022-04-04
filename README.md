@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/ErnestCalduch/NFT-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://nft-preview-card-component-ernestcalduch.netlify.app/)
 
 ## My process
 
